@@ -12,8 +12,8 @@ tags:
 - Stack Network
 - Google APIs
 - Books
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-books/master/_listings/google-books/apis.yaml
 specificationVersion: "0.14"
 apis:
